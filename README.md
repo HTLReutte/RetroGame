@@ -21,3 +21,20 @@ Folgende Hardware wurde verwendet:
 * Wiederstände
 * 3x Headers
 * Jumper
+
+
+
+## Pinbelegung
+GPIO1
+GPIO3 C2Jy
+GPIO21 C1Jy
+GPIO18 C2Jx
+GPIO17 C2B4
+GPIO16 C2B3
+GPIO4 C2B2
+GPIO2 C2B1
+GPIO27 C1B1
+GPIO26 C1B2
+GPIO25 C1B3
+GPIO33 C1B4
+GPIO32 C1Jx
